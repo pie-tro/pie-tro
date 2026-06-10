@@ -31,8 +31,8 @@
 
 ## 📂 Projetos em Destaque
 
-* **Projeto GEA:** Sistema de agendamento em nuvem desenvolvido para a FATEC utilizando Angular, Java e Node.js.
-* **Password Generator:** Aplicativo mobile em React Native com lógica customizável de tamanho de senhas e estados interativos de UI.
+* **Projeto GEA:** Sistema de agendamento em nuvem desenvolvido para a FATEC utilizando Angular, Java e Node.js.*
+* **Agenda Full Stack:** Aplicação completa para gerenciamento e organização, com front-end responsivo focado na experiência do usuário e back-end robusto para lidar com as regras de negócio e persistência de dados.
 
 ---
 
